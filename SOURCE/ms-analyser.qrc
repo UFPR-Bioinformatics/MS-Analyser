@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QSS/default.qss</file>
+        <file>UI/IMAGES/splash.png</file>
+        <file>UI/IMAGES/peaklist.png</file>
+        <file>UI/settings.ui</file>
+        <file>UI/IMAGES/mode_Project.png</file>
+        <file>UI/IMAGES/mode_Analyzer.png</file>
+        <file>UI/IMAGES/mode_Peaklist.png</file>
+        <file>UI/IMAGES/mode_Help.png</file>
+        <file>UI/peaklist_list.ui</file>
+        <file>UI/peaklist_content.ui</file>
+        <file>UI/peaklist_info.ui</file>
+    </qresource>
+</RCC>
